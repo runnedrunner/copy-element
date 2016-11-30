@@ -4,6 +4,5 @@
 // 3. google 'jquery copy element'
 // 4. copy the element and add the new element to the element list (google 'jquery add element to div')
 // 5. how do you repeat this multiple times, for multiple colors??? There is a nice data structure for this kind of thing.
-
-var elementsList = $("#elements-list")
+for (var i = 0; i< 
 $(".element").clone().appendTo("#elements-list");
